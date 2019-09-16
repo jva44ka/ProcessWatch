@@ -127,7 +127,7 @@ namespace ProcessWatcher
             }
         }
 
-        //Убийство файла
+        //Убийство процесса
         private void Kill()
         {
             foreach (Process item in this.processes)
