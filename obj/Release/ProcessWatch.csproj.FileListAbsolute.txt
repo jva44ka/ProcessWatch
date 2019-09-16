@@ -1,0 +1,6 @@
+C:\Users\Anton\source\repos\ProcessWatch\bin\Release\ProcessWatch.exe.config
+C:\Users\Anton\source\repos\ProcessWatch\bin\Release\ProcessWatch.exe
+C:\Users\Anton\source\repos\ProcessWatch\bin\Release\ProcessWatch.pdb
+C:\Users\Anton\source\repos\ProcessWatch\obj\Release\ProcessWatch.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\ProcessWatch\obj\Release\ProcessWatch.exe
+C:\Users\Anton\source\repos\ProcessWatch\obj\Release\ProcessWatch.pdb
